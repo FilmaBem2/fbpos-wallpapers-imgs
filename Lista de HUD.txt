@@ -1,0 +1,483 @@
+Goku (early) HUD P1 - unknow_00007.unk
+Goku (early) HUD P2 - unknow_00008.unk
+Goku (med) HUD P1 - unknow_00009.unk
+Goku (med) HUD P2 - unknow_00010.unk
+
+Goku SSJ (med) HUD P1 - unknow_00011.unk
+Goku SSJ (med) HUD P2 - unknow_00012.unk
+
+Goku (end) HUD P1 - unknow_00013.unk
+Goku (end) HUD P2 - unknow_00014.unk
+
+Goku SSJ (end) HUD P1 - unknow_00015.unk
+Goku SSJ (end) HUD P2 - unknow_00016.unk
+
+Goku SSJ2 (end) HUD P1 - unknow_00017.unk
+Goku SSJ2 (end) HUD P2 - unknow_00018.unk
+
+Goku SSJ3 (end) HUD P1 - unknow_00019.unk
+Goku SSJ3 (end) HUD P2 - unknow_00020.unk
+
+Goku GT HUD P1 - unknow_00021.unk
+Goku GT HUD P2 - unknow_00022.unk
+
+Goku GT  SSJ HUD P1 - unknow_00023.unk
+Goku GT  SSJ HUD P2 - unknow_00024.unk
+
+Goku GT SSJ3 HUD P1 - unknow_00025.unk
+Goku GT SSJ3 HUD P2 - unknow_00026.unk
+
+Goku SSJ4 HUD P1 - unknow_00027.unk
+Goku SSJ4 HUD P2 - unknow_00028.unk
+
+Kid Goku HUD P1 - unknow_00029.unk
+Kid Goku HUD P2 - unknow_00030.unk
+
+Great Ape HUD P1 - unknow_00031.unk
+Great Ape HUD P2 - unknow_00032.unk
+
+Kid Gohan HUD P1 - unknow_00033.unk
+Kid Gohan HUD P2 - unknow_00034.unk
+
+Teen Gohan HUD P1 - unknow_00035.unk
+Teen Gohan HUD P2 - unknow_00036.unk
+
+Teen Gohan SSJ HUD P1 - unknow_00037.unk
+Teen Gohan SSJ HUD P2 - unknow_00038.unk
+
+Teen Gohan SSJ2 HUD P1 - unknow_00039.unk
+Teen Gohan SSJ2 HUD P2 - unknow_00040.unk
+
+Gohan HUD P1 - unknow_00041.unk
+Gohan HUD P2 - unknow_00042.unk
+
+Gohan SSJ HUD P1 - unknow_00043.unk
+Gohan SSJ HUD P2 - unknow_00044.unk
+
+Gohan SSJ2 HUD P1 - unknow_00045.unk
+Gohan SSJ2 HUD P2 - unknow_00046.unk
+
+Great Saiyaman HUD P1 - unknow_00047.unk
+Great Saiyaman HUD P2 - unknow_00048.unk
+
+Mystic Gohan HUD P1 - unknow_00049.unk
+Mystic Gohan HUD P2 - unknow_00050.unk
+
+Piccolo (early) HUD P1 - unknow_00051.unk
+Piccolo (early) HUD P2 - unknow_00052.unk
+
+Piccolo (end) HUD P1 - unknow_00053.unk
+Piccolo (end) HUD P2 - unknow_00054.unk
+
+Nail HUD P1 - unknow_00055.unk
+Nail HUD P2 - unknow_00056.unk
+
+Krilin HUD P1 - unknow_00057.unk
+Krilin HUD P2 - unknow_00058.unk
+
+Yamcha HUD P1 - unknow_00059.unk
+Yamcha HUD P2 - unknow_00060.unk
+
+Tien HUD P1 - unknow_00061.unk
+Tien HUD P2 - unknow_00062.unk
+
+Chaotzu HUD P1 - unknow_00063.unk
+Chaotzu HUD P2 - unknow_00064.unk
+
+Vegeta Scouter HUD P1 - unknow_00065.unk
+Vegeta Scouter HUD P2 - unknow_00066.unk
+
+Vegeta Ape HUD P1 - unknow_00067.unk
+Vegeta Ape HUD P2 - unknow_00068.unk
+
+Vegeta HUD P1 - unknow_00069.unk
+Vegeta HUD P2 - unknow_00070.unk
+
+Vegeta SSJ HUD P1 - unknow_00071.unk
+Vegeta SSJ HUD P2 - unknow_00072.unk
+
+Super Vegeta HUD P1 - unknow_00073.unk
+Super Vegeta HUD P2 - unknow_00074.unk
+
+Vegeta 2nd HUD P1 - unknow_00075.unk
+Vegeta 2nd HUD P2 - unknow_00076.unk
+
+Vegeta 2nd SSJ HUD P1 - unknow_00077.unk
+Vegeta 2nd SSJ HUD P2 - unknow_00078.unk
+
+Vegeta 2nd SSJ2 HUD P1 - unknow_00079.unk
+Vegeta 2nd SSJ2 HUD P2 - unknow_00080.unk
+
+Majin Vegeta HUD P1 - unknow_00081.unk
+Majin Vegeta HUD P2 - unknow_00082.unk
+
+Vegeta 2nd SSJ4 HUD P1 - unknow_00083.unk
+Vegeta 2nd SSJ4 HUD P2 - unknow_00084.unk
+
+Future Trunks HUD P1 - unknow_00085.unk
+Future Trunks HUD P2 - unknow_00086.unk
+
+Future Trunks SSJ HUD P1 - unknow_00087.unk
+Future Trunks SSJ HUD P2 - unknow_00088.unk
+
+Trunks HUD P1 - unknow_00089.unk
+Trunks HUD P2 - unknow_00090.unk
+
+Trunks SSJ HUD P1 - unknow_00091.unk
+Trunks SSJ HUD P2 - unknow_00092.unk
+
+Super Trunks HUD P1 - unknow_00093.unk
+Super Trunks HUD P2 - unknow_00094.unk
+
+Kid Trunks HUD P1 - unknow_00095.unk
+Kid Trunks HUD P2 - unknow_00096.unk
+
+Kid Trunks SSJ HUD P1 - unknow_00097.unk
+Kid Trunks SSJ HUD P2 - unknow_00098.unk
+
+Goten HUD P1 - unknow_00099.unk
+Goten HUD P2 - unknow_00100.unk
+
+Goten SSJ HUD P1 - unknow_00101.unk
+Goten SSJ HUD P2 - unknow_00102.unk
+
+Gotenks HUD P1 - unknow_00103.unk
+Gotenks HUD P2 - unknow_00104.unk
+
+Gotenks SSJ HUD P1 - unknow_00105.unk
+Gotenks SSJ HUD P2 - unknow_00106.unk
+
+Gotenks SSJ3 HUD P1 - unknow_00107.unk
+Gotenks SSJ3 HUD P2 - unknow_00108.unk
+
+Vegetto HUD P1 - unknow_00109.unk
+Vegetto HUD P2 - unknow_00110.unk
+
+Super Vegetto HUD P1 - unknow_00111.unk
+Super Vegetto HUD P2 - unknow_00112.unk
+
+Super Gogeta HUD P1 - unknow_00113.unk
+Super Gogeta HUD P2 - unknow_00114.unk
+
+Gogeta SSJ4 HUD P1 - unknow_00115.unk
+Gogeta SSJ4 HUD P2 - unknow_00116.unk
+
+Mr Satan HUD P1 - unknow_00117.unk
+Mr Satan HUD P2 - unknow_00118.unk
+
+Videl HUD P1 - unknow_00119.unk
+Videl HUD P2 - unknow_00120.unk
+
+Great Saiyaman 2 HUD P1 - unknow_00121.unk
+Great Saiyaman 2 HUD P2 - unknow_00122.unk
+
+Kaioshin HUD P1 - unknow_00123.unk
+Kaioshin HUD P2 - unknow_00124.unk
+
+Kibitoshin HUD P1 - unknow_00125.unk
+Kibitoshin HUD P2 - unknow_00126.unk
+
+Yajirobe HUD P1 - unknow_00127.unk
+Yajirobe HUD P2 - unknow_00128.unk
+
+Pikkon HUD P1 - unknow_00129.unk
+Pikkon HUD P2 - unknow_00130.unk
+
+Tapion HUD P1 - unknow_00131.unk
+Tapion HUD P2 - unknow_00132.unk
+
+Pan HUD P1 - unknow_00133.unk
+Pan HUD P2 - unknow_00134.unk
+
+Ub HUD P1 - unknow_00135.unk
+Ub HUD P2 - unknow_00136.unk
+
+Majuub HUD P1 - unknow_00137.unk
+Majuub HUD P2 - unknow_00138.unk
+
+Roshi HUD P1 - unknow_00139.unk
+Roshi HUD P2 - unknow_00140.unk
+
+Roshi FP HUD P1 - unknow_00141.unk
+Roshi FP HUD P2 - unknow_00142.unk
+
+Grandpa Gohan HUD P1 - unknow_00143.unk
+Grandpa Gohan HUD P2 - unknow_00144.unk
+
+Nam HUD P1 - unknow_00145.unk
+Nam HUD P2 - unknow_00146.unk
+
+Hatchan HUD P1 - unknow_00147.unk
+Hatchan HUD P2 - unknow_00148.unk
+
+King Vegeta HUD P1 - unknow_00149.unk
+King Vegeta HUD P2 - unknow_00150.unk
+
+King Vegeta Ape HUD P1 - unknow_00151.unk
+King Vegeta Ape HUD P2 - unknow_00152.unk
+
+Bardock HUD P1 - unknow_00153.unk
+Bardock HUD P2 - unknow_00154.unk
+
+Bardock ape HUD P1 - unknow_00155.unk
+Bardock ape HUD P2 - unknow_00156.unk
+
+Fasha HUD P1 - unknow_00157.unk
+Fasha HUD P2 - unknow_00158.unk
+
+Fasha Ape HUD P1 - unknow_00159.unk
+Fasha Ape HUD P2 - unknow_00160.unk
+
+Raditz HUD P1 - unknow_00161.unk
+Raditz HUD P2 - unknow_00162.unk
+
+Raditz Ape HUD P1 - unknow_00163.unk
+Raditz Ape HUD P2 - unknow_00164.unk
+
+Saibamen HUD P1 - unknow_00165.unk
+Saibamen HUD P2 - unknow_00166.unk
+
+Nappa HUD P1 - unknow_00167.unk
+Nappa HUD P2 - unknow_00168.unk
+
+Nappa Ape HUD P1 - unknow_00169.unk
+Nappa Ape HUD P2 - unknow_00170.unk
+
+Zarbon HUD P1 - unknow_00171.unk
+Zarbon HUD P2 - unknow_00172.unk
+
+Zarbon Monster HUD P1 - unknow_00173.unk
+Zarbon Monster HUD P2 - unknow_00174.unk
+
+Dodoria HUD P1 - unknow_00175.unk
+Dodoria HUD P2 - unknow_00176.unk
+
+Kiwi HUD P1 - unknow_00177.unk
+Kiwi HUD P2 - unknow_00178.unk
+
+Ginyu HUD P1 - unknow_00179.unk
+Ginyu HUD P2 - unknow_00180.unk
+
+Recoome HUD P1 - unknow_00181.unk
+Recoome HUD P2 - unknow_00182.unk
+
+Burter HUD P1 - unknow_00183.unk
+Burter HUD P2 - unknow_00184.unk
+
+Jeece HUD P1 - unknow_00185.unk
+Jeece HUD P2 - unknow_00186.unk
+
+Guldo HUD P1 - unknow_00187.unk
+Guldo HUD P2 - unknow_00188.unk
+
+Freezer HUD P1 - unknow_00189.unk
+Freezer HUD P2 - unknow_00190.unk
+
+Freezer 2nd HUD P1 - unknow_00191.unk
+Freezer 2nd HUD P2 - unknow_00192.unk
+
+Freezer 3rd HUD P1 - unknow_00193.unk
+Freezer 3rd HUD P2 - unknow_00194.unk
+
+Freezer Final HUD P1 - unknow_00195.unk
+Freezer Final HUD P2 - unknow_00196.unk
+
+Freezer FP HUD P1 - unknow_00197.unk
+Freezer FP HUD P2 - unknow_00198.unk
+
+Mecha Freezer HUD P1 - unknow_00199.unk
+Mecha Freezer HUD P2 - unknow_00200.unk
+
+King Cold HUD P1 - unknow_00201.unk
+King Cold HUD P2 - unknow_00202.unk
+
+Appule HUD P1 - unknow_00203.unk
+Appule HUD P2 - unknow_00204.unk
+
+Freezer Soldier HUD P1 - unknow_00205.unk
+Freezer Soldier HUD P2 - unknow_00206.unk
+
+A16 HUD P1 - unknow_00207.unk
+A16 HUD P2 - unknow_00208.unk
+
+A17 HUD P1 - unknow_00209.unk
+A17 HUD P2 - unknow_00210.unk
+
+A18 HUD P1 - unknow_00211.unk
+A18 HUD P2 - unknow_00212.unk
+
+A19 HUD P1 - unknow_00213.unk
+A19 HUD P2 - unknow_00214.unk
+
+Dr. Gero HUD P1 - unknow_00215.unk
+Dr. Gero HUD P2 - unknow_00216.unk
+
+Cell 1st HUD P1 - unknow_00217.unk
+Cell 1st HUD P2 - unknow_00218.unk
+
+Cell 2nd HUD P1 - unknow_00219.unk
+Cell 2nd HUD P2 - unknow_00220.unk
+
+Cell Perfect HUD P1 - unknow_00221.unk
+Cell Perfect HUD P2 - unknow_00222.unk
+
+Cell Perfect 2 HUD P1 - unknow_00223.unk
+Cell Perfect 2 HUD P2 - unknow_00224.unk
+
+Cell Jr HUD P1 - unknow_00225.unk
+Cell Jr HUD P2 - unknow_00226.unk
+
+Babidi HUD P1 - unknow_00227.unk
+Babidi HUD P2 - unknow_00228.unk
+
+Dabura HUD P1 - unknow_00229.unk
+Dabura HUD P2 - unknow_00230.unk
+
+Buu HUD P1 - unknow_00231.unk
+Buu HUD P2 - unknow_00232.unk
+
+Buu Pure Evil HUD P1 - unknow_00233.unk
+Buu Pure Evil HUD P2 - unknow_00234.unk
+
+Super Buu HUD P1 - unknow_00235.unk
+Super Buu HUD P2 - unknow_00236.unk
+
+Super Buu Gotenks HUD P1 - unknow_00237.unk
+Super Buu Gotenks HUD P2 - unknow_00238.unk
+
+Super Buu Gohan HUD P1 - unknow_00239.unk
+Super Buu Gohan HUD P2 - unknow_00240.unk
+
+Buu kid HUD P1 - unknow_00241.unk
+Buu kid HUD P2 - unknow_00242.unk
+
+Garlick Jr HUD P1 - unknow_00243.unk
+Garlick Jr HUD P2 - unknow_00244.unk
+
+Garlick Jr FP HUD P1 - unknow_00245.unk
+Garlick Jr FP HUD P2 - unknow_00246.unk
+
+Dr. Wheelo HUD P1 - unknow_00247.unk
+Dr. Wheelo HUD P2 - unknow_00248.unk
+
+Turles HUD P1 - unknow_00249.unk
+Turles HUD P2 - unknow_00250.unk
+
+Turles Ape HUD P1 - unknow_00251.unk
+Turles Ape HUD P2 - unknow_00252.unk
+
+Slug HUD P1 - unknow_00253.unk
+Slug HUD P2 - unknow_00254.unk
+
+Slug Super Namek HUD P1 - unknow_00255.unk
+Slug Super Namek HUD P2 - unknow_00256.unk
+
+Salza HUD P1 - unknow_00257.unk
+Salza HUD P2 - unknow_00258.unk
+
+Cooler HUD P1 - unknow_00259.unk
+Cooler HUD P2 - unknow_00260.unk
+
+Cooler Final HUD P1 - unknow_00261.unk
+Cooler Final HUD P2 - unknow_00262.unk
+
+Metal Cooler HUD P1 - unknow_00263.unk
+Metal Cooler HUD P2 - unknow_00264.unk
+
+A13 HUD P1 - unknow_00265.unk
+A13 HUD P2 - unknow_00266.unk
+
+A13 Fusion HUD P1 - unknow_00267.unk
+A13 Fusion HUD P2 - unknow_00268.unk
+
+Broly HUD P1 - unknow_00269.unk
+Broly HUD P2 - unknow_00270.unk
+
+Broly SSJ HUD P1 - unknow_00271.unk
+Broly SSJ HUD P2 - unknow_00272.unk
+
+Broly LSSJ HUD P1 - unknow_00273.unk
+Broly LSSJ HUD P2 - unknow_00274.unk
+
+Zangya HUD P1 - unknow_00275.unk
+Zangya HUD P2 - unknow_00276.unk
+
+Bojack HUD P1 - unknow_00277.unk
+Bojack HUD P2 - unknow_00278.unk
+
+Bojack FP HUD P1 - unknow_00279.unk
+Bojack FP HUD P2 - unknow_00280.unk
+
+Janemba HUD P1 - unknow_00281.unk
+Janemba HUD P2 - unknow_00282.unk
+
+Super Janemba HUD P1 - unknow_00283.unk
+Super Janemba HUD P2 - unknow_00284.unk
+
+Hildegarn HUD P1 - unknow_00285.unk
+Hildegarn HUD P2 - unknow_00286.unk
+
+Baby Vegeta HUD P1 - unknow_00287.unk
+Baby Vegeta HUD P2 - unknow_00288.unk
+
+Super Baby HUD P1 - unknow_00289.unk
+Super Baby HUD P2 - unknow_00290.unk
+
+Super Baby 2 HUD P1 - unknow_00291.unk
+Super Baby 2 HUD P2 - unknow_00292.unk
+
+Baby Vegeta Ape HUD P1 - unknow_00293.unk
+Baby Vegeta Ape HUD P2 - unknow_00294.unk
+
+S17 HUD P1 - unknow_00295.unk
+S17 HUD P2 - unknow_00296.unk
+
+Nuova Shenron HUD P1 - unknow_00297.unk
+Nuova Shenron HUD P2 - unknow_00298.unk
+
+Syn Shenron HUD P1 - unknow_00299.unk
+Syn Shenron HUD P2 - unknow_00300.unk
+
+Omega Shenron HUD P1 - unknow_00301.unk
+Omega Shenron HUD P2 - unknow_00302.unk
+
+Tao HUD P1 - unknow_00303.unk
+Tao HUD P2 - unknow_00304.unk
+
+Cyber Tao HUD P1 - unknow_00305.unk
+Cyber Tao HUD P2 - unknow_00306.unk
+
+Gral Blue HUD P1 - unknow_00307.unk
+Gral Blue HUD P2 - unknow_00308.unk
+
+Akkuman HUD P1 - unknow_00309.unk
+Akkuman HUD P2 - unknow_00310.unk
+
+Pilaf HUD P1 - unknow_00311.unk
+Pilaf HUD P2 - unknow_00312.unk
+
+Pilaf Fusion HUD P1 - unknow_00313.unk
+Pilaf Fusion HUD P2 - unknow_00314.unk
+
+Tambourine HUD P1 - unknow_00315.unk
+Tambourine HUD P2 - unknow_00316.unk
+
+Demon Piccolo HUD P1 - unknow_00317.unk
+Demon Piccolo HUD P2 - unknow_00318.unk
+
+Arale HUD P1 - unknow_00319.unk
+Arale HUD P2 - unknow_00320.unk
+
+Chi-chi HUD P1 - unknow_00321.unk
+Chi-chi HUD P2 - unknow_00322.unk
+
+Spopovich HUD P1 - unknow_00323.unk
+Spopovich HUD P2 - unknow_00324.unk
+
+Future Gohan HUD P1 - unknow_00325.unk
+Future Gohan HUD P2 - unknow_00326.unk
+
+Future Gohan SSJ HUD P1 - unknow_00327.unk
+Future Gohan SSJ HUD P2 - unknow_00328.unk
+
+MODIFICANDO DO ZERO
